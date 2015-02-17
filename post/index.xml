@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on Ebrahim Songhori&#39;s website </title>
+      <title>Posts on Ebrahim Songhori&#39;s website </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://esonghori.github.io/index.xml/</link>
+    <link>http://esonghori.github.io/post/index.xml/</link>
     <language>en-us</language>
     
     
@@ -16,16 +16,6 @@
       
       <guid>http://esonghori.github.io/post/first/</guid>
       <description>&lt;p&gt;First One!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About the site</title>
-      <link>http://esonghori.github.io/about/</link>
-      <pubDate>Tue, 17 Feb 2015 00:34:45 CST</pubDate>
-      
-      <guid>http://esonghori.github.io/about/</guid>
-      <description>&lt;p&gt;First post&lt;/p&gt;
 </description>
     </item>
     
