@@ -3,19 +3,31 @@
   <channel>
       <title>Posts on Ebrahim Songhori&#39;s website </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://esonghori.github.io/post/index.xml/</link>
+    <link>http://localhost:1313/post/index.xml/</link>
     <language>en-us</language>
     
     
-    <updated>Tue, 17 Feb 2015 00:57:01 CST</updated>
+    <updated>Tue, 17 Feb 2015 15:05:44 CST</updated>
     
     <item>
-      <title>first</title>
-      <link>http://esonghori.github.io/post/first/</link>
-      <pubDate>Tue, 17 Feb 2015 00:57:01 CST</pubDate>
+      <title>Publications</title>
+      <link>http://localhost:1313/post/publication/</link>
+      <pubDate>Tue, 17 Feb 2015 15:05:44 CST</pubDate>
       
-      <guid>http://esonghori.github.io/post/first/</guid>
-      <description>&lt;p&gt;First One!&lt;/p&gt;
+      <guid>http://localhost:1313/post/publication/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Siam U. Hussain, Ahmad-Reza Sadeghi, Thomas Schneider and Farinaz Koushanfar, &amp;ldquo;TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits.&amp;rdquo; Security and Privacy, 2015 IEEE Symposium on May, 2015.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Siam U. Hussain, Ahmad-Reza Sadeghi and Farinaz Koushanfar, &amp;ldquo;A Compact and Scalable Privacy-Preserving k-Nearest Neighbor Search.&amp;rdquo; Proceedings of the 52nd Design Automation Conference (DAC) May, 2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; &amp;ldquo;ShuFFLE: Automated Framework for Hardware Accelerated Iterative Big Data Analysis .&amp;rdquo; Master of Science Thesis, Rice University April, 2014.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Azalia Mirhoseini, Xuyang Lu and Farinaz Koushanfar &amp;ldquo; Ahead: Automated Framework For Hardware Accelerated Iterative Data Analysis .&amp;rdquo; Design, Automation and Test in Europe Conference and Exhibition (DATE) March 11 2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; and Farinaz Koushanfar, &amp;ldquo; Idetic: A High-level Synthesis Approach for Enabling Long Computations on Transiently-powered ASICs .&amp;rdquo; Pervasive Computing and Communications (PerCom), 2013 IEEE International Conference on March 18, 2013.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; and Farinaz Koushanfar, &amp;ldquo; Automated checkpointing for enabling intensive applications on energy harvesting devices .&amp;rdquo; Low Power Electronics and Design (ISLPED), 2013 IEEE International Symposium on April 9, 2013.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
