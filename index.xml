@@ -7,41 +7,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 19 Feb 2015 22:55:28 CST</updated>
-    
-    <item>
-      <title>Quote: Karl Popper</title>
-      <link>http://esonghori.github.io/quote/popper/</link>
-      <pubDate>Thu, 19 Feb 2015 22:55:28 CST</pubDate>
-      
-      <guid>http://esonghori.github.io/quote/popper/</guid>
-      <description>&lt;p&gt;&lt;b&gt;[T]he attempt to make heaven on earth invariably produces hell.&lt;/b&gt; It leads to intolerance. It leads to religious wars, and to the saving of souls through the inquisition. And it is, I believe, based on a complete misunderstanding of our moral duties. It is our duty to help those who need help; but it cannot be our duty to make others happy, since this does not depend on us, and since it would only too often mean intruding on the privacy of those towards whom we have such amiable intentions.&lt;/p&gt;
-
-&lt;p&gt;Popper, Karl Sir. &lt;i&gt;The open society and its enemies.&lt;/i&gt; Routledge, 2012. Vol. 2, Ch. 24 &amp;ldquo;Oracular Philosophy and the Revolt against Reason&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Publication</title>
-      <link>http://esonghori.github.io/publication/</link>
-      <pubDate>Thu, 19 Feb 2015 19:36:06 CST</pubDate>
-      
-      <guid>http://esonghori.github.io/publication/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Siam U. Hussain, Ahmad-Reza Sadeghi, Thomas Schneider and Farinaz Koushanfar, &amp;ldquo;TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits.&amp;rdquo; &lt;i&gt;Security and Privacy, 2015 IEEE Symposium on&lt;/i&gt; May, 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Siam U. Hussain, Ahmad-Reza Sadeghi and Farinaz Koushanfar, &amp;ldquo;A Compact and Scalable Privacy-Preserving k-Nearest Neighbor Search.&amp;rdquo; &lt;i&gt;Proceedings of the 52nd Design Automation Conference (DAC)&lt;/i&gt; May, 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; &lt;a href=&#34;/file/ms-thesis.pdf&#34;&gt;&amp;ldquo;ShuFFLE: Automated Framework for Hardware Accelerated Iterative Big Data Analysis.&amp;rdquo;&lt;/a&gt; Master Thesis, Rice University April, 2014.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Azalia Mirhoseini, Xuyang Lu and Farinaz Koushanfar &lt;a href=&#34;/file/ahead.pdf&#34;&gt;&amp;ldquo;Ahead: Automated Framework For Hardware Accelerated Iterative Data Analysis.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Design, Automation and Test in Europe Conference and Exhibition (DATE)&lt;/i&gt; March 11 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; and Farinaz Koushanfar, &lt;a href=&#34;/file/Idetic.pdf&#34;&gt;&amp;ldquo;Idetic: A High-level Synthesis Approach for Enabling Long Computations on Transiently-powered ASICs.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Pervasive Computing and Communications (PerCom)&lt;/i&gt;, 2013 IEEE International Conference on March 18, 2013.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; and Farinaz Koushanfar, &lt;a href=&#34;/file/automated-check.pdf&#34;&gt;&amp;ldquo;Automated checkpointing for enabling intensive applications on energy harvesting devices.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Low Power Electronics and Design (ISLPED)&lt;/i&gt;, 2013 IEEE International Symposium on April 9, 2013.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+    <updated>Thu, 19 Feb 2015 19:32:59 CST</updated>
     
     <item>
       <title>About me</title>
@@ -74,6 +40,40 @@
 
 &lt;p&gt;Houston, TX 77251-1892&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://esonghori.github.io/publication/</link>
+      <pubDate>Thu, 19 Feb 2015 19:36:06 CST</pubDate>
+      
+      <guid>http://esonghori.github.io/publication/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Siam U. Hussain, Ahmad-Reza Sadeghi, Thomas Schneider and Farinaz Koushanfar, &amp;ldquo;TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits.&amp;rdquo; &lt;i&gt;Security and Privacy, 2015 IEEE Symposium on&lt;/i&gt; May, 2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Siam U. Hussain, Ahmad-Reza Sadeghi and Farinaz Koushanfar, &amp;ldquo;A Compact and Scalable Privacy-Preserving k-Nearest Neighbor Search.&amp;rdquo; &lt;i&gt;Proceedings of the 52nd Design Automation Conference (DAC)&lt;/i&gt; May, 2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; &lt;a href=&#34;/file/ms-thesis.pdf&#34;&gt;&amp;ldquo;ShuFFLE: Automated Framework for Hardware Accelerated Iterative Big Data Analysis.&amp;rdquo;&lt;/a&gt; Master Thesis, Rice University April, 2014.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Azalia Mirhoseini, Xuyang Lu and Farinaz Koushanfar &lt;a href=&#34;/file/ahead.pdf&#34;&gt;&amp;ldquo;Ahead: Automated Framework For Hardware Accelerated Iterative Data Analysis.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Design, Automation and Test in Europe Conference and Exhibition (DATE)&lt;/i&gt; March 11 2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; and Farinaz Koushanfar, &lt;a href=&#34;/file/Idetic.pdf&#34;&gt;&amp;ldquo;Idetic: A High-level Synthesis Approach for Enabling Long Computations on Transiently-powered ASICs.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Pervasive Computing and Communications (PerCom)&lt;/i&gt;, 2013 IEEE International Conference on March 18, 2013.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; and Farinaz Koushanfar, &lt;a href=&#34;/file/automated-check.pdf&#34;&gt;&amp;ldquo;Automated checkpointing for enabling intensive applications on energy harvesting devices.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Low Power Electronics and Design (ISLPED)&lt;/i&gt;, 2013 IEEE International Symposium on April 9, 2013.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quote: Karl Popper</title>
+      <link>http://esonghori.github.io/quote/popper/</link>
+      <pubDate>Thu, 19 Feb 2015 22:55:28 CST</pubDate>
+      
+      <guid>http://esonghori.github.io/quote/popper/</guid>
+      <description>&lt;p&gt;&lt;b&gt;[T]he attempt to make heaven on earth invariably produces hell.&lt;/b&gt; It leads to intolerance. It leads to religious wars, and to the saving of souls through the inquisition. And it is, I believe, based on a complete misunderstanding of our moral duties. It is our duty to help those who need help; but it cannot be our duty to make others happy, since this does not depend on us, and since it would only too often mean intruding on the privacy of those towards whom we have such amiable intentions.&lt;/p&gt;
+
+&lt;p&gt;Popper, Karl Sir. &lt;i&gt;The open society and its enemies.&lt;/i&gt; Routledge, 2012. Vol. 2, Ch. 24 &amp;ldquo;Oracular Philosophy and the Revolt against Reason&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
