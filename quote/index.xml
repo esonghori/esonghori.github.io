@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Quotes on Ebrahim Songhori </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://esonghori.github.io/quote/index.xml/</link>
+    <title>Quotes on Ebrahim Songhori</title>
+    <link>http://esonghori.github.io/quote/</link>
+    <description>Recent content in Quotes on Ebrahim Songhori</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    
-    <updated>Thu, 19 Feb 2015 22:55:28 CST</updated>
+    <lastBuildDate>Thu, 19 Feb 2015 22:55:28 -0600</lastBuildDate>
+    <atom:link href="http://esonghori.github.io/quote/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Quote: Karl Popper</title>
       <link>http://esonghori.github.io/quote/popper/</link>
-      <pubDate>Thu, 19 Feb 2015 22:55:28 CST</pubDate>
+      <pubDate>Thu, 19 Feb 2015 22:55:28 -0600</pubDate>
       
       <guid>http://esonghori.github.io/quote/popper/</guid>
       <description>&lt;p&gt;&lt;b&gt;[T]he attempt to make heaven on earth invariably produces hell.&lt;/b&gt; It leads to intolerance. It leads to religious wars, and to the saving of souls through the inquisition. And it is, I believe, based on a complete misunderstanding of our moral duties. It is our duty to help those who need help; but it cannot be our duty to make others happy, since this does not depend on us, and since it would only too often mean intruding on the privacy of those towards whom we have such amiable intentions.&lt;/p&gt;
