@@ -6,82 +6,34 @@
     <description>Recent content on Ebrahim Songhori</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2015 22:55:28 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 23:05:28 -0500</lastBuildDate>
     <atom:link href="http://esonghori.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Quote: Karl Popper</title>
-      <link>http://esonghori.github.io/quote/popper/</link>
-      <pubDate>Thu, 19 Feb 2015 22:55:28 -0600</pubDate>
-      
-      <guid>http://esonghori.github.io/quote/popper/</guid>
-      <description>&lt;p&gt;&lt;b&gt;[T]he attempt to make heaven on earth invariably produces hell.&lt;/b&gt; It leads to intolerance. It leads to religious wars, and to the saving of souls through the inquisition. And it is, I believe, based on a complete misunderstanding of our moral duties. It is our duty to help those who need help; but it cannot be our duty to make others happy, since this does not depend on us, and since it would only too often mean intruding on the privacy of those towards whom we have such amiable intentions.&lt;/p&gt;
-
-&lt;p&gt;Popper, Karl Sir. &lt;i&gt;The open society and its enemies.&lt;/i&gt; Routledge, 2012. Vol. 2, Ch. 24 &amp;ldquo;Oracular Philosophy and the Revolt against Reason&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://esonghori.github.io/publication/</link>
-      <pubDate>Thu, 03 Mar 2016 14:08:09 -0600</pubDate>
-      
-      <guid>http://esonghori.github.io/publication/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Shaza Zeitouni, Ghada Dessouky, Thomas Schneider, Ahmad-Reza Sadeghi and Farinaz Koushanfar. &amp;ldquo;GarbledCPU: A MIPS Processor for Secure Computation in Hardware.&amp;rdquo; &lt;i&gt;Proceedings of the 53rd Design Automation Conference (DAC)&lt;/i&gt; June 2016.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Siam U. Hussain, Ahmad-Reza Sadeghi, Thomas Schneider and Farinaz Koushanfar. &lt;a href=&#34;http://esonghori.github.io/file/TinyGarble.pdf&#34;&gt;&amp;ldquo;TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Security and Privacy, 2015 IEEE Symposium on&lt;/i&gt; May 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Siam U. Hussain, Ahmad-Reza Sadeghi and Farinaz Koushanfar. &lt;a href=&#34;http://esonghori.github.io/file/secure-knn.pdf&#34;&gt;&amp;ldquo;Compacting Privacy-Preserving k-Nearest Neighbor Search using Logic Synthesis.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Proceedings of the 52nd Design Automation Conference (DAC)&lt;/i&gt; May 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Bita Darvish Rouhani, and Farinaz Koushanfar. &amp;ldquo;Flexible Transformations For Learning Big Data.&amp;rdquo; &lt;i&gt;In Proceedings of the 2015 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems&lt;/i&gt;, June 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Bita Darvish Rouhani, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Azalia Mirhoseini and Farinaz Koushanfar.​ &lt;a href=&#34;http://esonghori.github.io/file/SSketch.pdf&#34;&gt;&amp;ldquo;SSketch: An Automated Framework for Streaming Sketch-based Analysis of Big Data on FPGA.&amp;rdquo;&lt;/a&gt; ​​&lt;i&gt;In Field-Programmable Custom Computing Machines (FCCM)&lt;/i&gt;, May 201​5​.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, Eva Dyer, &lt;b&gt;Ebrahim Songhori&lt;/b&gt;, Richard Baraniuk, and Farinaz Koushanfar. &lt;a href=&#34;http://arxiv.org/abs/1503.08169&#34;&gt;&amp;ldquo;Rankmap: A platform-aware framework for distributed learning from dense datasets.&amp;rdquo;&lt;/a&gt; &lt;i&gt;arXiv preprint arXiv:1503.08169&lt;/i&gt; March 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;. &lt;a href=&#34;http://esonghori.github.io/file/ms-thesis.pdf&#34;&gt;&amp;ldquo;ShuFFLE: Automated Framework for Hardware Accelerated Iterative Big Data Analysis.&amp;rdquo;&lt;/a&gt; Master Thesis, Rice University, April 2014.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;b&gt;Ebrahim M. Songhori&lt;/b&gt;, Azalia Mirhoseini, Xuyang Lu and Farinaz Koushanfar. &lt;a href=&#34;http://esonghori.github.io/file/ahead.pdf&#34;&gt;&amp;ldquo;AHEAD: Automated Framework For Hardware Accelerated Iterative Data Analysis.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Design, Automation and Test in Europe Conference and Exhibition (DATE)&lt;/i&gt; March 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; and Farinaz Koushanfar. &lt;a href=&#34;http://esonghori.github.io/file/Idetic.pdf&#34;&gt;&amp;ldquo;Idetic: A High-level Synthesis Approach for Enabling Long Computations on Transiently-powered ASICs.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Pervasive Computing and Communications (PerCom)&lt;/i&gt;, March 2013.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Azalia Mirhoseini, &lt;b&gt;Ebrahim M. Songhori&lt;/b&gt; and Farinaz Koushanfar. &lt;a href=&#34;http://esonghori.github.io/file/automated-check.pdf&#34;&gt;&amp;ldquo;Automated checkpointing for enabling intensive applications on energy harvesting devices.&amp;rdquo;&lt;/a&gt; &lt;i&gt;Low Power Electronics and Design (ISLPED)&lt;/i&gt;, April 2013.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>About me</title>
       <link>http://esonghori.github.io/about/</link>
-      <pubDate>Fri, 25 Sep 2015 14:44:28 -0500</pubDate>
+      <pubDate>Mon, 29 May 2017 23:05:28 -0500</pubDate>
       
       <guid>http://esonghori.github.io/about/</guid>
       <description>&lt;p&gt;&lt;span itemscope itemtype=&#34;http://data-vocabulary.org/Person&#34;&gt;
-My name is &lt;span itemprop=&#34;name&#34;&gt;Ebrahim M. Songhori&lt;/span&gt; (in Persian: ابراهیم سنقری). I&amp;rsquo;m a &lt;span itemprop=&#34;title&#34;&gt;PhD student&lt;/span&gt; in &lt;span itemprop=&#34;affiliation&#34;&gt;ACES (Adaptive Computing and Embedded Systems) lab&lt;/span&gt; at &lt;span itemprop=&#34;affiliation&#34;&gt;Rice University&lt;/span&gt;. I’m advised by &lt;span itemprop=&#34;contact&#34;&gt;Prof. Farinaz Koushanfar&lt;/span&gt;. I&amp;rsquo;m interested in Computer Architecture, Secure Multi-party Computation, Embedded System Design, FPGA and ASIC design, High Performance Computing and Big Data Analysis. I received M.Sc. from Rice University in 2014 and B.Sc. from the &lt;span itemprop=&#34;affiliation&#34;&gt;University of Tehran&lt;/span&gt; in 2011.&lt;/span&gt;&lt;/p&gt;
+My name is &lt;span itemprop=&#34;name&#34;&gt;Ebrahim M. Songhori&lt;/span&gt; (in Persian: ابراهیم سنقری). I&amp;rsquo;m a &lt;span itemprop=&#34;title&#34;&gt;Software Engineer&lt;/span&gt; at &lt;span itemprop=&#34;affiliation&#34;&gt;Google&lt;/span&gt; Shopping, Mountain View, CA. I received my Ph.D in Computer Engineering from &lt;span itemprop=&#34;affiliation&#34;&gt;Rice University&lt;/span&gt;. I was advised by &lt;span itemprop=&#34;contact&#34;&gt;Prof. Farinaz Koushanfar&lt;/span&gt; (University of California, San Diego). I received my M.Sc. from Rice University in 2014 and B.Sc. from the &lt;span itemprop=&#34;affiliation&#34;&gt;University of Tehran&lt;/span&gt; in 2011.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Email&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;ebrahim (at) rice.edu&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Office&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Duncan Hall 2047&lt;/li&gt;
+&lt;li&gt;esonghori (at) google.com&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Address&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;ECE – MS-366&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Google Inc&lt;/p&gt;
 
-&lt;p&gt;Rice University&lt;/p&gt;
+&lt;p&gt;1600 Amphitheatre Pkwy,&lt;/p&gt;
 
-&lt;p&gt;P.O. Box 1892&lt;/p&gt;
+&lt;p&gt;Attn:esonghori&lt;/p&gt;
 
-&lt;p&gt;Houston, TX 77005-1892&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;Mountain View, CA 94043&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
