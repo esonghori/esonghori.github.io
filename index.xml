@@ -1,41 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebrahim Songhori</title>
     <link>http://esonghori.github.io/</link>
     <description>Recent content on Ebrahim Songhori</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2017 23:24:46 -0700</lastBuildDate>
-    <atom:link href="http://esonghori.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language><atom:link href="http://esonghori.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ebrahim Songhori</title>
       <link>http://esonghori.github.io/about/</link>
       <pubDate>Mon, 29 May 2017 23:24:46 -0700</pubDate>
       
       <guid>http://esonghori.github.io/about/</guid>
-      <description>&lt;p&gt;&lt;span itemscope itemtype=&#34;http://data-vocabulary.org/Person&#34;&gt;
-My name is &lt;span itemprop=&#34;name&#34;&gt;Ebrahim M. Songhori&lt;/span&gt; (in Persian: ابراهیم سنقری). I&amp;rsquo;m a &lt;span itemprop=&#34;title&#34;&gt;Software Engineer&lt;/span&gt; at &lt;span itemprop=&#34;affiliation&#34;&gt;Google&lt;/span&gt; Shopping, Mountain View, CA. I received my Ph.D in Computer Engineering from &lt;span itemprop=&#34;affiliation&#34;&gt;Rice University&lt;/span&gt;. I was advised by &lt;span itemprop=&#34;contact&#34;&gt;Prof. Farinaz Koushanfar&lt;/span&gt; (University of California, San Diego). I received my M.Sc. from Rice University in 2014 and B.Sc. from the &lt;span itemprop=&#34;affiliation&#34;&gt;University of Tehran&lt;/span&gt; in 2011.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Email&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;esonghori (at) google.com&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Address&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Google Inc&lt;/p&gt;
-
-&lt;p&gt;1600 Amphitheatre Pkwy,&lt;/p&gt;
-
-&lt;p&gt;Attn:esonghori&lt;/p&gt;
-
-&lt;p&gt;Mountain View, CA 94043&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
   </channel>
